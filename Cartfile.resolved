@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire" "4.8.2"
+github "AliSoftware/OHHTTPStubs" "8.0.0"
+github "SVProgressHUD/SVProgressHUD" "2.2.5"
+github "onevcat/Kingfisher" "4.10.1"
